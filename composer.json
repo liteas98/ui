@@ -1,5 +1,5 @@
 {
-    "name": "laravel/ui",
+    "name": "liteas98/ui",
     "description": "Laravel UI utilities and presets.",
     "keywords": ["laravel", "ui"],
     "license": "MIT",
@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/console": "^8.42|^9.0",
-        "illuminate/filesystem": "^8.42|^9.0",
-        "illuminate/support": "^8.82|^9.0",
-        "illuminate/validation": "^8.42|^9.0"
+        "php": "*",
+        "illuminate/console": "*",
+        "illuminate/filesystem": "*",
+        "illuminate/support": "*",
+        "illuminate/validation": "*"
     },
     "require-dev": {
         "orchestra/testbench": "^6.23|^7.0"
